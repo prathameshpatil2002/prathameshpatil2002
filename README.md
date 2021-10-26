@@ -8,8 +8,9 @@
 </h1></div>
 <hr>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshpatil2002&show_icons=true&theme=light&line_height=30&count_private=true" alt="Prathamesh's github stats"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshpatil2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" /> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshpatil2002&show_icons=true&theme=light&line_height=30&count_private=true" alt="Prathamesh's github stats"/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshpatil2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" /> 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshpatil2002&" alt="prathameshpatil2002" />  
 <div align="center"><h2> Technical Skils 💻 </h2> </div>
 
 ### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
