@@ -13,12 +13,11 @@
 ## 🔭 My Contibutions
 
 <p align="center">
-    <a href="https://github.com/prathameshpatil2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aniket's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshpatil2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-<br/>
-<br/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prathameshpatil2002"/></a>
+    <br>
+    <br>
 </p>
+
 
 ## 📊My Github Stats
 
